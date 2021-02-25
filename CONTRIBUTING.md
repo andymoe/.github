@@ -14,9 +14,8 @@ contribute to a repository, follow the steps below:
 
 ## Where can I look for issues?
 
-We tag issues that should be reasonable for a new contributor to take on with a
-[`good first
-issue`](https://github.com/search?q=org%3Apaketo-buildpacks+org%3Apaketo-community+label%3A%22good+first+issue%22+state%3Aopen&type=Issues)
+We tag issues that should be reasonable for a new contributor to take on with a 
+[`good first issue`](https://github.com/search?q=org%3Apaketo-buildpacks+org%3Apaketo-community+label%3A%22good+first+issue%22+state%3Aopen&type=Issues)
 label so you have somewhere to start.
 
 ## Where can I reach out to the team?
